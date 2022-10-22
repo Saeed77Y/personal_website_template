@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Mohammad Saeed Yari"
   avatar           : ""
-  bio              : CE pupil at IUST University.
-  location         : "تهران"
+  bio              : CE Student at IUST University.
+  location         : "Tehran"
   email            : saeedyari820@gmail.com
   twitter: khodesaeed_
   linkedin: 
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/grimysoul"
 
 # Site Footer
 footer:
