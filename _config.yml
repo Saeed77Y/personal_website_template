@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "SAEED"
 title_separator          : "-"
-name                     : "Poorang" 
-description              : "Welcome to my web site."
+name                     : "Mohammad Saeed Yari" 
+description              : "Hiiii !"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : khodesaeed_
 facebook:
-  username               : sauleh.eetemadi
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "Mohammad Saeed Yari"
+  avatar           : ""
+  bio              : CE pupil at IUST University.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  email            : saeedyari820@gmail.com
+  twitter: khodesaeed_
+  linkedin: 
+  google_scholar: 
+  github: saeed77y
+  instagram: khode.saeed
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
