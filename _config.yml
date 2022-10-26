@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "blue" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : # "github-blue" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : khodesaeed_
 facebook:
   username               :
   app_id                 :
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Mohammad Saeed Yari"
   avatar           : ""
-  bio              : CE Student at IUST University.
+  bio              : Hi! I'm CE Student at IUST University.
   location         : "Tehran"
   email            : saeedyari820@gmail.com
   twitter: khodesaeed_
   linkedin: 
   google_scholar: 
   github: saeed77y
-  instagram:
+  instagram:khode.saeed
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
