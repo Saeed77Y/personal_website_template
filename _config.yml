@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Mohammad Saeed Yari"
   avatar           : "assets/eee.png"
-  bio              : Hi! I'm CE Student at IUST University.
+  bio              : "Hi! I'm CE Student at IUST University."
   location         : "Tehran"
   email            : saeedyari820@gmail.com
   twitter: khodesaeed_
   linkedin: 
   google_scholar: 
   github: saeed77y
-  instagram:khode.saeed
+  instagram: khode.saeed
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
