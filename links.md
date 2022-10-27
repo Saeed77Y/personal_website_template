@@ -9,8 +9,7 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
-
+* [Country I want to visit](https://www.britannica.com/place/Seoul)
+* [Offered Animation](https://en.wikipedia.org/wiki/Soul_(2020_film))
+* [Endless Hourse](http://endless.horse/)
+* [My University](http://www.iust.ac.ir)
