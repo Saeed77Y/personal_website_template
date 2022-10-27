@@ -9,10 +9,10 @@ comments: false
 ---
 
 
-* [Listening Music]
-* [Watching Movie]
-* [Reading Books]
+* Listening Music
+* Watching Movie
+* Reading Books
 * [Solving Rubik Cube](https://cubesolve.com/)
-* [Learning English]
+* Learning English
 
 
