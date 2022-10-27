@@ -9,6 +9,10 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Listening Music]
+* [Watching Movie]
+* [Reading Books]
+* [Solving Rubik Cube](https://cubesolve.com/)
+* [Learning English]
 
 
