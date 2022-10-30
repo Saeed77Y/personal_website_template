@@ -9,7 +9,7 @@ comments: false
 ---
 Personal Information
 
-| question             | answer                  |
+| Question             | Answer                  |
 |----------------------|-------------------------|
 | Name :               | Mohammad Saeed Yari     |
 | Gender :             | Male                    |
