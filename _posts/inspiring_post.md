@@ -1,6 +1,5 @@
 ---
 layout: posts
-title: Inspiring Quote
+title: چگونه می توان با برنامه ریزی مناسب در دانشگاه به تمام برنامه های خود رسید؟
 ---
 
-I was born to make mistakes , not to fake perfection (Drake)
