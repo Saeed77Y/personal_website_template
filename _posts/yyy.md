@@ -1,6 +1,6 @@
 ---
 layout posts
-title: How to find time in university to do everytask ?
+title: Talk with a sophomore
 ---
 
 ## I've spoke to one of the older pupils and he told me :
