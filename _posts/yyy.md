@@ -1,5 +1,6 @@
 ---
 layout posts
+type: posts
 title: Talk with a sophomore
 ---
 
