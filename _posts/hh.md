@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Talk with a sophomore
+title: Three Games about Programming
 ---
 ## Three Games those who can help kids to be a good programmer :
 - Nand game [Click here!](https://www.nandgame.com) :
