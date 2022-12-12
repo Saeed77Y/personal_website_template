@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Talk with a sophomore
+---
 ##Three Games those who can help kids to be a good programmer.
 - Nand game [Click here!](https://www.nandgame.com) :
 This game is about building a computer & a fun thing about it is it doesn’t need any information to know; something that makes learning easy for kids.
