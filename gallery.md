@@ -29,5 +29,5 @@ gallery:
     title: "Persepolis"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="hope you like these pics." %}
 
