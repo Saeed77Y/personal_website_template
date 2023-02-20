@@ -26,11 +26,7 @@ gallery:
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
-    title: "Persepolis"   
-    url: /assets/images/977887.jpg
-    image_path: /assets/images/977887.jpg
-    alt: "placeholder image 6"
-    title: "Periodic Table"
+    title: "Persepolis"
 ---
 
 {% include gallery caption="hope you like these pics." %}
